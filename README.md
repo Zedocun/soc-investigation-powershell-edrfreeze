@@ -20,10 +20,6 @@ The investigation identified a PowerShell-driven attack chain in which the host 
 
 ![Attack Chain](diagrams/attack-chain-edrfreeze.png)
 
-## Medium article
-
-Add your Medium link here after publishing.
-
 ## Notes
 
 This case study is based on a LetsDefend training scenario and is published for portfolio and learning purposes.
