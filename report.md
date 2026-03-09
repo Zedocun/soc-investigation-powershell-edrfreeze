@@ -103,4 +103,4 @@ The evidence supports a True Positive conclusion.
 
 The host executed suspicious PowerShell activity that led to GitHub resolution, archive download, execution of the EDRFreeze tool, and spawning of a legitimate Windows process in a suspicious context.
 
-This case demonstrates how attackers can use public infrastructure and legitimate system binaries as part of an evasion-oriented execution chain.
+This case demonstrates how attackers can use public infrastructure and legitimate system binaries as part of an evasion oriented execution chain.
