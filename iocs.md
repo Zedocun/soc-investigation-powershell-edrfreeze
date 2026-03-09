@@ -4,7 +4,7 @@
 
 - `C:\Users\LetsDefend\Downloads\EDR-Freeze_1.0.zip`
 - `C:\Users\LetsDefend\Downloads\EDR-Freeze_1.0.exe`
-- `C:\Users\LetsDefend\AppData\Local\Temp\__PSScriptPolicyTest_*.ps1`
+- `C:\Users\LetsDefend\AppData\Local\Temp\__PSScriptPolicyTest_h2dcovv0.dyk.ps1`
 
 ## SHA256
 
